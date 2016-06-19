@@ -1,0 +1,21 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "forecastio": "^1.0.2",
+    "zippity-do-dah": "0.0.2"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0"
+  }
+}
